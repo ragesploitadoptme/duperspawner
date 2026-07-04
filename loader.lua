@@ -1,10 +1,10 @@
-local SCRIPT_0 = "https://raw.githubusercontent.com/ragesploitadoptme/adoptme/main/script0.lua"
-local SCRIPT_1 = "https://raw.githubusercontent.com/ragesploitadoptme/adoptme/main/script1.lua"
-local SCRIPT_2 = "https://raw.githubusercontent.com/ragesploitadoptme/adoptme/main/script2.lua"
-local SCRIPT_3 = "https://raw.githubusercontent.com/ragesploitadoptme/adoptme/main/script3.lua"
-local SCRIPT_4 = "https://raw.githubusercontent.com/ragesploitadoptme/adoptme/main/script4.lua"
+local SCRIPT_0 = "https://raw.githubusercontent.com/ragesploitadoptme/duperspawner/refs/heads/main/script0.lua"
+local SCRIPT_1 = "https://raw.githubusercontent.com/ragesploitadoptme/duperspawner/refs/heads/main/script1.lua"
+local SCRIPT_2 = "https://raw.githubusercontent.com/ragesploitadoptme/duperspawner/refs/heads/main/script2.lua"
+local SCRIPT_3 = "https://raw.githubusercontent.com/ragesploitadoptme/duperspawner/refs/heads/main/script3.lua"
+local SCRIPT_4 = "https://raw.githubusercontent.com/ragesploitadoptme/duperspawner/refs/heads/main/script4.lua"
 
-local WAITING_SCRIPT = "https://raw.githubusercontent.com/itsmashood/scripts/refs/heads/main/main"
+local WAITING_SCRIPT = "https://raw.githubusercontent.com/ragesploitadoptme/waiters/refs/heads/main/Spawner.lua"
 
 getgenv().Script0Ready = false
 getgenv().ScriptState = "WAITING"
